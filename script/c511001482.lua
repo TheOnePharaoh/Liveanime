@@ -21,7 +21,7 @@ function c511001482.lpop(e,tp,eg,ep,ev,re,r,rp)
 	if g:GetCount()>0 then
 		sum=g:GetSum(Card.GetAttack)
 	end
-	local infinity=89478485
+	local infinity=89378485
 	if sum>infinity then
 		sum=infinity
 	end
